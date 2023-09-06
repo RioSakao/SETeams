@@ -1,2 +1,0 @@
-## Developers
-* Rio Sakao, RioSakao
